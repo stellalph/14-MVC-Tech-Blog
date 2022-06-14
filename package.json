@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/stellalph/14-MVC-Tech-Blog#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.1",
     "install": "^0.13.0",
     "mysql2": "^2.3.3",
