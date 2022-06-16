@@ -3,7 +3,7 @@
     --secondary: #dce9d5;
     --tertiary: #788585;
     --light-dark: #a1a0a1;
-    --dark: #201110;
+    --dark: #1411eff4;
     --border-radius: .3rem;
 }
 
@@ -150,7 +150,7 @@ p {
 }
 
 .icon-danger {
-    color: rgb(255, 70, 70);
+    color: rgb(95, 36, 51);
 }
 
 .icon-success {
