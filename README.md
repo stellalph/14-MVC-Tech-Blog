@@ -57,7 +57,13 @@ The overview of the deployed application to Heroku :-
 
 * Nodemon is installed as development dependency meaning that if our application ever goes in production, this package will not be included. The command to install for in this case is npm i -D nodemon. The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves. The screenshot show the working of the nodemon.  
 
+* The test of the application is done locally before deployment to Heroku using Insomnia.  At the command prompt, type in npm start or nodemon server.js:-
 
+![alt text](/assets/img15.png)
+
+* Testing locally using Insomnia
+
+![alt text](/assets/img08.png)
 
 ## Usage
 
