@@ -28,7 +28,7 @@ The overview of the deployed application to Heroku :-
 
 * The application follows the Model-View-Controller paradigm.  The Model-View-Controller(MVC) framework is an architectural pattern that adheres to the separation of concerns principle.
 
-* The folder structure for the application will be set up to MVC paradigm.
+* The folder structure for the application will be set up according to this MVC paradigm.
 
   - The Model - stores data and data-related logic
   - The View - the UI/UX concerns, or what a user will see and interact with.
@@ -39,15 +39,21 @@ The overview of the deployed application to Heroku :-
 
 * Node Package Manager (npm) is a software manager and installer which puts the modules in place so that the node project can utilize it, and also, it manages dependency conflicts intelligently and initialized using <strong>npm init</strong>.  The package.json will be generated and will contains all the details of the application in which the user have inputted during the npm initialization.
 
-* This application also need the installation of MySQL which is a developer-friendly open source relational databse system.  The application uses MySQL packjage and sequelize package to connect Express.js to MySQL database and also the dotenv package to use environment variables to store sensitive data. Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. The bcrypt package is to hash passwords, and the express-session and connect
+* This application will need the [express-handlebars](https://www.npmjs.com/package/express-handlebars) package to implement Handlebars.js for the Views, use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect to a MySQL database for the Models, and create an Express.js API for the Controllers.
 
+* This application will also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 
+* The [express-session](https://www.npmjs.com/package/express-session) package is required to store the session data on the client in a cookie. When the user is idle on the site for more than a set time, the cookie will expire and the user will be required to log in again to start a new session. This is the default behavior and nothing is to be done except to include the implementation of the package.
 
   - npm install express
   - npm install --save mysql2
   - npm i sequelize
   - npm install dotenv --save
   - npm i bcrypt 
+  - npm install express-session
+  - npm i connect-session-sequelize
+  - npm i handlebars
+  - npm i express-handlebars
 
 * Nodemon is installed as development dependency meaning that if our application ever goes in production, this package will not be included. The command to install for in this case is npm i -D nodemon. The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves. The screenshot show the working of the nodemon.  
 
@@ -58,3 +64,5 @@ The overview of the deployed application to Heroku :-
 ## References
 
 ## License
+
+This project is licensed under the terms of the MIT license.
