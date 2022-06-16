@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
             console.log(err);
             res.status(500).json(err);
         });
-}); //routes to actual user pages, excludes returning their pw for security.
+}); //routes to actual user pages, excludes returning their pwd for security.
 
 router.get('/:id', (req, res) => {
     User.findOne({

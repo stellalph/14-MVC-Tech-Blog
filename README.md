@@ -11,6 +11,8 @@ This application will follow the MVC paradigm in its architectural structure, us
 The URL of the GitHub repository is <strong>https://github.com/stellalph/14-MVC-Tech-Blog.git</strong>.
 and the repository name is 14-MVC-Tech-Blog.
 
+The URL of the deployed application is https://stark-tor-51492.herokuapp.com/
+
 ## Table of Contents
 
 * [Installation](#installation)
