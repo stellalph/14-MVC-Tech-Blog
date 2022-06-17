@@ -92,13 +92,13 @@ The steps to show on how the user could use the tech-blog:-
 
 * when the user click on the dashboard option in the navigation, then the user is taken to the dashboard and presented with the blog post the user have created and the option to add a new blog post and when the click on the button (grey bar) to add a new blog post.  Then the user is prompted to enter both a title and contents for my blog post and when I click on the button to create a new blog post.  The title and contents of my post are saved and I am taken back to an updated dash board with my new blog post.
 
-  ![alt text](/assets/img016.png)
-  ![alt text](/assets/img017.png)
-  ![alt text](/assets/img018.png)
+  ![alt text](/assets/img16.png)
+  ![alt text](/assets/img17.png)
+  ![alt text](/assets/img18.png)
 
 * When I click on one of my existing posts in the dashboard, then I am able to delete or update my post and taken back to updated dashboard, then I am able to delete or update my post and taken back to an updated dasboard.  When I click on the logout option in the navigation , then I am signed out of the site or idle on the site fore more than a set time.
 
-  ![alt text](/assets/img018.png)
+  ![alt text](/assets/img019.png)
 
 
 
