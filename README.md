@@ -72,8 +72,18 @@ The steps to show on how the user could use the tech-blog:-
 
 * When the user visit the CMS-style Blog site, the user will be presented with the home page, which includes the existing blog posts, navigation links for the homepage.
 
-  ![alt text](/assets/img01.png)
+  ![alt text](/assets/img14.png)
 
+* When the user is taken to the homepage and clicking on any other links in the navigation, the user would be prompted to either sign up or sign in.  When the user choose to sign up and prompted to create a username and password and click on the sign-up button, the user credentials are saved and the user is logged into the site.
+
+   ![alt text](/assets/img02.png)
+   ![alt text](/assets/img03.png)
+   ![alt text](/assets/img01.png)
+
+
+* When the user revisit the site at a later time and choose to sign in, the user is prompted to enter the username and password, and signed into the site, the user can see the navigation links for the homepage, the dashboard, and the option to log out.  When the user click on the homepage option in the navigation, the user is taken to the homepage and presented with existing blog posts that include the post title and the date created.
+
+  ![alt text](/assets/img01.png)
 
 ## References
 
