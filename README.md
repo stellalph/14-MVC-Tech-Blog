@@ -64,6 +64,19 @@ The overview of the deployed application to Heroku :-
 
   ![alt text](/assets/img08.png)
 
+* The database models are set up in accordance to the criteria.   MySQL Workbench is installed to help with design, create and browse the database schemas, work with database objects and insert data as well as design and run SQL queries to work with stored data.  Schemas and data from other database vendors can be migrated from database vendors to MySQL database.
+  
+* For this application, at command prompt, type in node seeds/index.js :- 
+
+   ![alt text](/assets/img21.png)
+
+* Below shows MySQL Workbench for the database, tech_blog:-
+
+    ![alt text](/assets/img09.png)
+    ![alt text](/assets/img10.png)
+    ![alt text](/assets/img11.png)
+    ![alt text](/assets/img12.png)
+
 ## Usage
 
 The steps to show on how the user could use the tech-blog:-
@@ -100,7 +113,6 @@ The steps to show on how the user could use the tech-blog:-
 
   ![alt text](/assets/img19.png)
   ![alt text](/assets/img20.png)
-
 
 
 ## References
