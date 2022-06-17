@@ -26,14 +26,13 @@ The overview of the deployed application to Heroku :-
 
 ## Installation
 
-* The application follows the Model-View-Controller paradigm.  The Model-View-Controller(MVC) framework is an architectural pattern that adheres to the separation of concerns principle.
+* The application follows the Model-View-Controller paradigm.  The Model-View-Controller(MVC) is an architectural pattern that adheres to the separation of concerns principle.
 
 * The folder structure for the application will be set up according to this MVC paradigm.
 
   - The Model - stores data and data-related logic
   - The View - the UI/UX concerns, or what a user will see and interact with.
-  - The Controller - the interface between Models and Views.  It processes requests from the View, uses the Model to 
-    manipulate data, and sends data to the View to render.
+  - The Controller - the interface between Models and Views.  It processes requests from the View, uses the Model to manipulate data, and sends data to the View to render.
 
 * This application will need the installation of node.js from the website, https://www.node.org.
 
