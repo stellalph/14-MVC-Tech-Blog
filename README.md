@@ -66,6 +66,15 @@ The overview of the deployed application to Heroku :-
 
 ## Usage
 
+The steps to show on how the user could use the tech-blog:-
+
+* This application is deployed to Heroku,  click on the link  [HEROKU - THE TECH BLOG](https://stark-tor-51492.herokuapp.com/).
+
+* When the user visit the CMS-style Blog site, the user will be presented with the home page, which includes the existing blog posts, navigation links for the homepage.
+
+  ![alt text](/assets/img01.png)
+
+
 ## References
 
 ## License
