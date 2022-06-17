@@ -86,6 +86,13 @@ The steps to show on how the user could use the tech-blog:-
   ![alt text](/assets/img05.png)
   ![alt text](/assets/img04.png)
 
+* When the user click on the existing blog post, the user will be presented with the post title, contents, post creator's username, and date created for that post and have option to comment. When the user enter a comment and click on the submit button while signed in, then the comment is saved and the post is updated to display the coment, the comment creator's username, and the date created.
+
+  ![alt text](/assets/img07.png)
+
+
+
+
 ## References
 
 ## License
