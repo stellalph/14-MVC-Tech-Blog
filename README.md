@@ -117,6 +117,15 @@ The steps to show on how the user could use the tech-blog:-
 
 ## References
 
+ - The Unit Ahead : Model-View-Controller (MVC):-
+  * [MVC Tutorial for Beginners](https://www.guru99.com/mvc-tutorial.html)
+  * [What is MVC? Simple Explanation](https://www.youtube.com/watch?v=pCvZtjoRq1I)
+  * [What is programming MVC](https://www.youtube.com/watch?v=1IsL6g2ixak)
+  * [Separation of Concerns](https://www.youtube.com/watch?v=iO1mnztmqJ8)
+  * [Templating languages: The hidden costs - Fun Fun Function](https://www.youtube.com/watch?v=EmGfdlixQHo)
+- Unit 14: Student Mini Project - Crowdfunding App
+- Request - Response The Full-Stack Blog : Heroku Deployment Guide
+
 ## License
 
 This project is licensed under the terms of the MIT license.
