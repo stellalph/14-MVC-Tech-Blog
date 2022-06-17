@@ -83,7 +83,8 @@ The steps to show on how the user could use the tech-blog:-
 
 * When the user revisit the site at a later time and choose to sign in, the user is prompted to enter the username and password, and signed into the site, the user can see the navigation links for the homepage, the dashboard, and the option to log out.  When the user click on the homepage option in the navigation, the user is taken to the homepage and presented with existing blog posts that include the post title and the date created.
 
-  ![alt text](/assets/img01.png)
+  ![alt text](/assets/img05.png)
+  ![alt text](/assets/img04.png)
 
 ## References
 
