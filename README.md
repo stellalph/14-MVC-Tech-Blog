@@ -58,11 +58,11 @@ The overview of the deployed application to Heroku :-
 
 * The test of the application is done locally before deployment to Heroku using Insomnia.  At the command prompt, type in npm start or nodemon server.js:-
 
-![alt text](/assets/img15.png)
+  ![alt text](/assets/img15.png)
 
 * Testing locally using Insomnia
 
-![alt text](/assets/img08.png)
+  ![alt text](/assets/img08.png)
 
 ## Usage
 
